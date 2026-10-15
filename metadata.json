@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse AI - Student Admission & Attendance Automation",
+  "description": "Next-generation institutional platform combining AI automated document verification, SOP evaluation, vision-based classroom attendance, QR check-in, and student dropout risk prediction.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
